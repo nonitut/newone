@@ -1,5 +1,9 @@
 *{ box-sizing: border-box;}
 
+body{
+    background: lightblue;
+}
+
 @font-face {
 font-family: "CarlaSansLight";
 src: url("../fonts/CarlaSansLight.ttf") format("truetype");
@@ -8,3 +12,4 @@ font-weight: Light;
 }
 
 p{ font-family: 'CarlaSansLight'; }
+
